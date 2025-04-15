@@ -16,7 +16,7 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="enable_auth">"Enable Authentication"</string>
-    <string name="ws_path_title">Webocket Path</string>
+    <string name="ws_path_title">Websocket Path</string>
     <string name="path">Path</string>
     <string name="ws_port_title">"Websocket Port"</string>
     <string name="enable_ws_title">"Enable Websocket"</string>
